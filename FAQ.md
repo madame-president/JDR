@@ -11,8 +11,7 @@ Key difference:
 
 **Not** all IT (ERP, HR/payroll, databases, user access), **only** systems around Bitcoin treasury, custody and transaction data.
 
-**Not** promising an audit of PoR, **only** design the controls to generate the standardized reports.
-
+**Not** promising an audit of P-o-R, **only** design the controls to generate the standardized reports.
 
 ### Will this accidentally drift into investment advice or securities territory?
 
@@ -55,11 +54,11 @@ Residual liability is tied to reputational risk, which can be controlled through
 
 1. Written report containing assessment of current systems (custody, transaction processing, reconciliations), identification of current risks (if any), **system design improvements for better address-level data.** This report will be delivered as a PDF e-file.
 
-(CLICK HERE TO SEE AN EXAMPLE OF A SUGGESTED SYSTEM DESIGN IMPROVEMENT)
+(An example of this is under suggestions.md)
 
 2. Proof-of-reserves report with documentation of how historical data can be retreived and reconciled in an on-going basis. This reports provides a framework on what information SHOULD be included to make the P-o-R relevant.It will be delivered as a PDF e-file.
 
-(CLICK HERE TO SEE SAID FRAMEWORK)
+(An explanation of this framework is under SAT-1.md)
 
 3. Standardized data pack as structured excel workbooks containing address-level metrics. This will be delivered as a zip-folder.
 
@@ -82,7 +81,7 @@ Engagement size:
 Financial metrics:
 
 - Gross revenue expectations: 60k < 150k
-- Approximate gross margin: >70% (Since costs are mostly staff time, the margins are very plum)
+- Approximate gross margin per engagement: >70% (Since costs are mostly staff time, the margins are very plum)
 
 ### What will be some risk mitigation controls?
 
@@ -114,7 +113,9 @@ Then depending on the service, for:
 
 Question to JDR:
 
-Is it possible to tie my bonus to this? The firm retains 90% of net profit, and I receive 10% as bonus?
+Is it possible to tie my bonus to this? The firm retains 90% of net profit, and I receive 10% as bonus? Touch basis with Lana regarding my current bonus payout?
+
+*Note: this question is better for HR/Landon.*
 
 ### What are the legal and compliance risks?
 
@@ -128,4 +129,4 @@ Minimal if framed correctly. Messaging must make it clear this is a niche, highl
 
 I rather answer this question after the pilot question is completed. Right now, my only evidence of this being a needed service are informal experiences and a "receipt" for a 17k payment for one engagement that took 4 hours from start to finish.
 
-(CLICK HERE TO SEE DETAILS ON ENGAGEMENT AND RECEIPT)
+(The details of this "engagement" are under details.md)
