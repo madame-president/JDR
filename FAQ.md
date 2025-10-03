@@ -37,8 +37,6 @@ I would not require any additional staff support
 
 Personal time to polish documentation reports: 12 - 15 billable hours
 
-(CLICK HERE TO SEE EXAMPLE)
-
 3. Marketing costs
 
 Update the cryptocurrency audit page from the KRP website: 5-10 billable hours
@@ -57,7 +55,7 @@ Residual liability is tied to reputational risk, which can be controlled through
 
 1. Written report containing assessment of current systems (custody, transaction processing, reconciliations), identification of current risks (if any), **system design improvements for better address-level data.** This report will be delivered as a PDF e-file.
 
-(CLICK HERE TO SEE AN EXAMPLE OF A SYSTEM DESIGN IMPROVEMENT)
+(CLICK HERE TO SEE AN EXAMPLE OF A SUGGESTED SYSTEM DESIGN IMPROVEMENT)
 
 2. Proof-of-reserves report with documentation of how historical data can be retreived and reconciled in an on-going basis. This reports provides a framework on what information SHOULD be included to make the P-o-R relevant.It will be delivered as a PDF e-file.
 
@@ -95,8 +93,6 @@ Financial metrics:
 3. Insurance review and coverage confirmation
 
 4. Ensure that my work related to crypto audits under JDR remains constant and delivered on time
-
-(CLICK HERE TO SEE MY ARMY OF BOTS)
 
 ### What marketing costs are associated with this project?
 
