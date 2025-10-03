@@ -66,7 +66,7 @@ SAT-1 goes beyond a report formatting. It is the first attempt at the institutio
 
 As Bitcoin adoption continues amoung institutions and wealth funds, auditable Bitcoin address reporting will become a requirement. SAT-1 establishes a strong foundation for this inevitable future.
 
-## Implementation of code using SAT-1
+## Implementation of code using SAT-1 for one address
 
 ```
 import requests
