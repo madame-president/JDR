@@ -130,3 +130,9 @@ Minimal if framed correctly. Messaging must make it clear this is a niche, highl
 I rather answer this question after the pilot question is completed. Right now, my only evidence of this being a needed service are informal experiences and a "receipt" for a 17k payment for one engagement that took 4 hours from start to finish.
 
 (The details of this "engagement" are under **details.md**)
+
+### When will this be ready to launch live (this means all changes to webpage are done, documentation is polished, and we are 100% prepared to receive the first consulting engagement?
+
+Tuesday January 6th, 2026
+
+
