@@ -54,11 +54,11 @@ Residual liability is tied to reputational risk, which can be controlled through
 
 1. Written report containing assessment of current systems (custody, transaction processing, reconciliations), identification of current risks (if any), **system design improvements for better address-level data.** This report will be delivered as a PDF e-file.
 
-(An example of this is under suggestions.md)
+(An example of this is under **suggestions.md**)
 
 2. Proof-of-reserves report with documentation of how historical data can be retreived and reconciled in an on-going basis. This reports provides a framework on what information SHOULD be included to make the P-o-R relevant.It will be delivered as a PDF e-file.
 
-(An explanation of this framework is under SAT-1.md)
+(An explanation of this framework is under **SAT.md**)
 
 3. Standardized data pack as structured excel workbooks containing address-level metrics. This will be delivered as a zip-folder.
 
@@ -129,4 +129,4 @@ Minimal if framed correctly. Messaging must make it clear this is a niche, highl
 
 I rather answer this question after the pilot question is completed. Right now, my only evidence of this being a needed service are informal experiences and a "receipt" for a 17k payment for one engagement that took 4 hours from start to finish.
 
-(The details of this "engagement" are under details.md)
+(The details of this "engagement" are under **details.md**)
